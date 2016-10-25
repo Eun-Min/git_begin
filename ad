@@ -1,0 +1,85 @@
+[33mcommit 8ddf3c2e9af02025342177dc7232bb0dae809bc4[m
+Author: Eun-Min <peunmin717@naver.com>
+Date:   Tue Oct 25 15:57:38 2016 +0900
+
+    second commit go
+
+[33mcommit b997f76874e4ebdb1ae47040d637328d6f690740[m
+Author: Eun-Min <peunmin717@naver.com>
+Date:   Tue Oct 25 15:55:15 2016 +0900
+
+    first commit
+
+[33mcommit 42ec2699641002a0f2d900e8030775e879881935[m
+Merge: 613117d 6283a6b
+Author: Eun-Min <peunmin717@naver.com>
+Date:   Wed Oct 19 18:48:37 2016 +0900
+
+    Merge branch 'modify_image'
+
+[33mcommit 6283a6b9dad4d4b845aa7e5c3014c02529295425[m
+Author: Eun-Min <peunmin717@naver.com>
+Date:   Wed Oct 19 18:47:03 2016 +0900
+
+    new
+
+[33mcommit 16c7d34bcb3c8963ec60fa9bedc48c3526b2a3c2[m
+Author: Eun-Min <peunmin717@naver.com>
+Date:   Wed Oct 19 18:41:58 2016 +0900
+
+    fix image to 200 final
+
+[33mcommit a7e24174f8994741e8fec86bb31f4238bf5dc268[m
+Author: Eun-Min <peunmin717@naver.com>
+Date:   Wed Oct 19 18:39:01 2016 +0900
+
+    modify size to 300
+
+[33mcommit 621cc45f4372a81ee4fe2a27c97c6487f88fc882[m
+Author: Eun-Min <peunmin717@naver.com>
+Date:   Wed Oct 19 18:38:17 2016 +0900
+
+    modify size to 200
+
+[33mcommit 613117d67ad8e2a7dee3b518f6c0c508749fa10c[m
+Author: Eun-Min <peunmin717@naver.com>
+Date:   Wed Oct 19 18:29:04 2016 +0900
+
+    XXXXXX
+
+[33mcommit 5ca91b4533896b0aa12a16c10e6a3cfb0682b9c4[m
+Merge: ab7c791 c73c739
+Author: Eun-Min <peunmin717@naver.com>
+Date:   Wed Oct 19 18:09:49 2016 +0900
+
+    Merge branch 'write_readme'
+
+[33mcommit c73c739f5bf0c131c8f9de95bab21179688f929b[m
+Author: Eun-Min <peunmin717@naver.com>
+Date:   Wed Oct 19 18:00:24 2016 +0900
+
+    add READEME.md
+
+[33mcommit ab7c791439e19656029349d93fe0abe6701ac019[m
+Author: Eun-Min <peunmin717@naver.com>
+Date:   Wed Oct 19 17:52:52 2016 +0900
+
+    change comment from hello to bye
+
+[33mcommit 0d051a8388e2a34e5a54f044e48490778490750b[m
+Author: Eun-Min <peunmin717@naver.com>
+Date:   Wed Oct 19 17:41:30 2016 +0900
+
+    gugu_code#2 : up to nine by nine
+
+[33mcommit e9dc5610edaa1d0ea4ae028c33d87ea261d62315[m
+Author: Eun-Min <peunmin717@naver.com>
+Date:   Wed Oct 19 17:40:29 2016 +0900
+
+    gugu_code#1
+
+[33mcommit 8f6c203d5fa4a95899cb9cb86f26f4f6653adea1[m
+Author: unknown <박은민>
+Date:   Wed Oct 19 17:22:03 2016 +0900
+
+    first commit
